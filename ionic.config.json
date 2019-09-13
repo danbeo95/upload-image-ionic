@@ -1,5 +1,7 @@
 {
   "name": "upload-image",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
